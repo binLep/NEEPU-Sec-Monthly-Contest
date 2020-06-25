@@ -45,6 +45,6 @@ nc localhost 9999
 **脚本连接题目文件**
 
 ```python
-p = remote('pwn.hsctf.com', 5002)
+p = remote('localhost', 9999)
 ```
 

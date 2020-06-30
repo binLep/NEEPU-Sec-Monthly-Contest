@@ -32,8 +32,6 @@ I think you can solve it now
 
 签到码：N3EPu{1_L1k3_N3EPu_C7f}
 
-签到题
-
 ### 64 的秘密
 
 哦？这是什么？

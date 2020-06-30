@@ -8,7 +8,7 @@
 
 Base64 编码加密，用在线网站就行了：https://tool.oschina.net/encrypt?type=3
 
-![](.\img\2020-06-wp-3.png)
+![](https://raw.githubusercontent.com/binLep/NEEPU-Sec-Monthly-Contest/master/2020-06/WriteUp/img/2020-06-wp-3.png)
 
 ### Easy_vb
 
@@ -16,7 +16,7 @@ Base64 编码加密，用在线网站就行了：https://tool.oschina.net/encryp
 
 之后就能看见 flag
 
-![](.\img\2020-06-wp-4.png)
+![](https://raw.githubusercontent.com/binLep/NEEPU-Sec-Monthly-Contest/master/2020-06/WriteUp/img/2020-06-wp-4.png)
 
 ### 来学习如何使用 nc 吧
 
@@ -36,7 +36,7 @@ Base64 编码加密，用在线网站就行了：https://tool.oschina.net/encryp
 
 没想到还真有人玩到最后了，查看宝箱找到的字符串。。。
 
-![](.\img\2020-06-wp-1.png)
+![](https://raw.githubusercontent.com/binLep/NEEPU-Sec-Monthly-Contest/master/2020-06/WriteUp/img/2020-06-wp-1.png)
 
 ### 简单的计算题
 
@@ -214,7 +214,7 @@ print('the flag is' + flag)
 
 IDA 的基础操作，R 键数字转字符
 
-![](.\img\2020-06-wp-2.png)
+![](https://raw.githubusercontent.com/binLep/NEEPU-Sec-Monthly-Contest/master/2020-06/WriteUp/img/2020-06-wp-2.png)
 
 ### RE2
 
